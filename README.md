@@ -1,4 +1,10 @@
 ### Hi there 👋
+Full Stack Web Developer with a background in Sales and Marketing. Proficient in project management, data analysis, and business strategy. Known among peers for attention to detail and determination. Passionate about approaching programming challenges from different angles and always eager to learn new skills. Rutgers Full Stack Coding Bootcamp graduate.
+
+Technical Skills
+● Browser Based Technologies (HTML, CSS, JavaScript, jQuery, React, Bootstrap, Material UI)
+● Databases (MySQL, MongoDB, Firebase)
+● Server Side Development (Node.js, Express, MERN Stack, AWS)
 
 <!--
 **las348/las348** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
